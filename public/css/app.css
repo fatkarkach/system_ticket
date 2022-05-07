@@ -1,0 +1,17 @@
+a.btn.btn-success {
+  
+    margin-bottom: 25px;
+    margin-left:10%;
+}
+table.table.table-bordered {
+    width: 80%;
+    margin: auto;
+
+}
+.boutons {
+    display: flex;
+    justify-content:center;
+}
+.btn{
+    margin-left: 12PX;
+}
